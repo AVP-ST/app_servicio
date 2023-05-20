@@ -1,0 +1,14 @@
+C:\Users\AVP\Desktop\Proyectos\.Net\App_Servicio_Tecnico\App_Servicio_Tecnico\obj\Debug\App_Servicio_Tecnico.csproj.AssemblyReference.cache
+C:\Users\AVP\Desktop\Proyectos\.Net\App_Servicio_Tecnico\App_Servicio_Tecnico\obj\Debug\App_Servicio_Tecnico.csproj.SuggestedBindingRedirects.cache
+C:\Users\AVP\Desktop\Proyectos\.Net\App_Servicio_Tecnico\App_Servicio_Tecnico\obj\Debug\App_Servicio_Tecnico.Properties.Resources.resources
+C:\Users\AVP\Desktop\Proyectos\.Net\App_Servicio_Tecnico\App_Servicio_Tecnico\obj\Debug\App_Servicio_Tecnico.csproj.GenerateResource.cache
+C:\Users\AVP\Desktop\Proyectos\.Net\App_Servicio_Tecnico\App_Servicio_Tecnico\obj\Debug\App_Servicio_Tecnico.csproj.CoreCompileInputs.cache
+C:\Users\AVP\Desktop\Proyectos\.Net\App_Servicio_Tecnico\App_Servicio_Tecnico\bin\Debug\App_Servicio_Tecnico.exe.config
+C:\Users\AVP\Desktop\Proyectos\.Net\App_Servicio_Tecnico\App_Servicio_Tecnico\bin\Debug\App_Servicio_Tecnico.exe
+C:\Users\AVP\Desktop\Proyectos\.Net\App_Servicio_Tecnico\App_Servicio_Tecnico\bin\Debug\App_Servicio_Tecnico.pdb
+C:\Users\AVP\Desktop\Proyectos\.Net\App_Servicio_Tecnico\App_Servicio_Tecnico\obj\Debug\App_Servicio_Tecnico.exe
+C:\Users\AVP\Desktop\Proyectos\.Net\App_Servicio_Tecnico\App_Servicio_Tecnico\obj\Debug\App_Servicio_Tecnico.pdb
+C:\Users\AVP\Desktop\Proyectos\.Net\App_Servicio_Tecnico\App_Servicio_Tecnico\obj\Debug\App_Servicio_Tecnico.GUI.Login.resources
+C:\Users\AVP\Desktop\Proyectos\.Net\App_Servicio_Tecnico\App_Servicio_Tecnico\obj\Debug\App_Servicio_Tecnico.GUI.Dashboard.resources
+C:\Users\AVP\Desktop\Proyectos\.Net\App_Servicio_Tecnico\App_Servicio_Tecnico\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\AVP\Desktop\Proyectos\.Net\App_Servicio_Tecnico\App_Servicio_Tecnico\obj\Debug\App_Servicio_Tecnico.csproj.CopyComplete
